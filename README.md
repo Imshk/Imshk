@@ -2,7 +2,7 @@ SHASHANK DWIVEDI
 
 Hey there! I'm Shashank Dwivedi, an Intern at Cognizant, Web Developer, Learning DevOps, and Technical Content Writer. I have experience in multiple programming languages such as Java, Python, React, Node JS, HTML, CSS, JavaScript, and Tailwind CSS.
 
-I’m currently working on... 
+I’m currently working on...
 
 Improving my web development skills by working on personal projects
 
